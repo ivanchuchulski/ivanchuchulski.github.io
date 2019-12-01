@@ -1,0 +1,32 @@
+
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    height: 80px;
+  }
+
+  #navbarNavDropdown {
+      font-size: 25px;
+      margin-bottom: 10px;
+  }
+  
+  .nav-masthead .nav-link {
+      padding: .25rem 2;
+      font-weight: 700;
+      color: black;
+      background-color: transparent;
+      border-bottom: .25rem solid transparent;
+  }
+
+
+
+  #choice {
+     margin: 5px;
+     font-size: 20px;
+     background-color:skyblue;
+     color: white;
+  }
